@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\GameDemo\GameDemo\obj\Debug\net5.0\GameDemo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\GameDemo\GameDemo\obj\Debug\net5.0\GameDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\GameDemo\GameDemo\obj\Debug\net5.0\GameDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\GameDemo\GameDemo\obj\Debug\net5.0\GameDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\GameDemo\GameDemo\obj\Debug\net5.0\GameDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GameDemo\GameDemo\bin\Debug\net5.0\GameDemo.exe
+C:\Users\Admin\source\repos\GameDemo\GameDemo\bin\Debug\net5.0\GameDemo.deps.json
+C:\Users\Admin\source\repos\GameDemo\GameDemo\bin\Debug\net5.0\GameDemo.runtimeconfig.json
+C:\Users\Admin\source\repos\GameDemo\GameDemo\bin\Debug\net5.0\GameDemo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\GameDemo\GameDemo\bin\Debug\net5.0\GameDemo.dll
+C:\Users\Admin\source\repos\GameDemo\GameDemo\bin\Debug\net5.0\ref\GameDemo.dll
+C:\Users\Admin\source\repos\GameDemo\GameDemo\bin\Debug\net5.0\GameDemo.pdb
+C:\Users\Admin\source\repos\GameDemo\GameDemo\obj\Debug\net5.0\GameDemo.dll
+C:\Users\Admin\source\repos\GameDemo\GameDemo\obj\Debug\net5.0\ref\GameDemo.dll
+C:\Users\Admin\source\repos\GameDemo\GameDemo\obj\Debug\net5.0\GameDemo.pdb
+C:\Users\Admin\source\repos\GameDemo\GameDemo\obj\Debug\net5.0\GameDemo.genruntimeconfig.cache
